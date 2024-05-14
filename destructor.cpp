@@ -10,7 +10,7 @@ public:
     angka(int);  //constructor
     ~angka();   //destructor
     void cetakData();
-    void isiData;
+    void isiData();
 };
 
 //Definisi member function
